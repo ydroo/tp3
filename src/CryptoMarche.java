@@ -32,13 +32,14 @@ public class CryptoMarche
 	{ //fonction implémentée
 		double capital = 0;
 		
-		for( Portefeuille p : portefeuilles )
+		for( Portefeuille p : this.portefeuilles )
 		{
 			if( p.estProprietaire(proprietaire) )
 			{
-				capital += p.getMontant();
+				capital += p.valeurEnEuros();
 			}
 		}
+		
 
 		return capital;
 	}
@@ -54,11 +55,11 @@ public class CryptoMarche
 	{ //fonction implémentée
 		double capital=0;
 		
-		for( Portefeuille p : portefeuilles )
+		for( Portefeuille p : this.portefeuilles )
 		{
 			if( p.getMonnaie() == monnaie )
 			{
-				capital += p.getMontant();
+				capital += p.valeurEnEuros();
 			}
 		}
 
