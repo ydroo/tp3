@@ -6,7 +6,7 @@
 
 **IUT Le Havre - Cours GIT**
 
-# Compte-rendu TP3 et TP5 Introduction GIT
+# Compte-rendu TP3 
 
 Dans ces TP on s'initie à GitHub, aux répertoires distants.
 Ce compte rendu me servira seulement à citer les commandes "utiles" vues aucours du TP, *une aide mémoire* ou les manipulations
@@ -34,3 +34,8 @@ Etapes pour créer un répertoire puis le partager avec un membre d'équipe :
 
 # TP 5 : Comment créer un site Web sur GitHub pages
 Nous nous servons de ce tp pour l'afficher depuis une page GitHub
+
+# Compte-rendu TP5
+
+[GitHub Page de mon TP5](https://ydroo.github.io/tp3/).
+
