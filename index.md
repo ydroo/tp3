@@ -24,3 +24,12 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+### Mon équipe 14 pour cette SAE :
+
+| Prénom       | Nom               | Groupe |
+|:-------------|:------------------|:-------|
+| Trystan      | Baillobay         | B      |
+| Maxime       | Lemoine           | B      |
+| Mattéo       | Sa                | B      |
+
