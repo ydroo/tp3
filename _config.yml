@@ -4,3 +4,4 @@ plugins:
 
 theme: cayman
 markdown : kramdown;
+gem "github-pages", group: :jekyll_plugins
