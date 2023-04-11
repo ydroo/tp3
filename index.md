@@ -1,4 +1,4 @@
-[View on GitHub](https://github.com/ydroo/tp3).
+[Accéder à mes TP 3 et 5](https://github.com/ydroo/tp3).
 
 # TP 3 : Travailler en équipe sur un depôt github distant
 
