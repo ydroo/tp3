@@ -1,4 +1,4 @@
-[View on GitHub](https://github.com/ydroo/tp3/new/main).
+[View on GitHub](https://github.com/ydroo/tp3).
 
 # TP 5 : Comment créer un site Web sur GitHub pages
 
