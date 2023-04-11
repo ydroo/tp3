@@ -1,14 +1,5 @@
 [Accéder à mes TP 3 et 5](https://github.com/ydroo/tp3).
 
-# TP 3 : Travailler en équipe sur un depôt github distant
-
-## Lors de ce tp3 nous avons abordé : 
-
-1.  ...
-
-## Compte rendu TP 3:
-
-
 # TP 5 : Comment créer un site Web sur GitHub pages
 
 ## Lors de ce tp5 nous avons abordé : 
