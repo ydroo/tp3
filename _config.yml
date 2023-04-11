@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
-title : "TP5 : "
-description : "Initiation à GitHub Pages"
+title : "Trystan Baillobay B"
+description : "TP5 : Initiation à GitHub Pages"
