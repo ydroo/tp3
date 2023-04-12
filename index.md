@@ -12,7 +12,7 @@
 
 * Pour importer un "style" Jekyll (ici Cayman) :
 
-[color=#26B260] remote_theme: pages-themes/cayman@v0.2.0 [/color]
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
