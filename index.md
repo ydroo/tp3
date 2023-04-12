@@ -8,7 +8,7 @@
 2.  Ajouter du contenu à l’aide de Markdown et HTML
 3.  Créer un site Web pour la SAE 2.03
 
-## Compte rendu TP 5:
+## [color=#26B260] Compte rendu TP 5: [/color]
 
 * Pour importer un "style" Jekyll (ici Cayman) :
 
