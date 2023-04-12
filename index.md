@@ -8,11 +8,11 @@
 2.  Ajouter du contenu à l’aide de Markdown et HTML
 3.  Créer un site Web pour la SAE 2.03
 
-## [color=#26B260] Compte rendu TP 5: [/color]
+##  Compte rendu TP 5: 
 
 * Pour importer un "style" Jekyll (ici Cayman) :
 
-remote_theme: pages-themes/cayman@v0.2.0
+[color=#26B260] remote_theme: pages-themes/cayman@v0.2.0 [/color]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
